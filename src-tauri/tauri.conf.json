@@ -7,7 +7,7 @@
   },
   "package": {
     "productName": "holofuel-kangaroo",
-    "version": "0.0.0"
+    "version": "0.0.1-skip-proof"
   },
   "tauri": {
     "allowlist": {

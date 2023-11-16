@@ -1,7 +1,7 @@
 {
   "name": "holofuel-kangaroo",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1-skip-proof",
   "type": "module",
   "scripts": {
     "kangaroo": "npm run dist && npm run tauri build",
