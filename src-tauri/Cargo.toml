@@ -1,6 +1,6 @@
 [package]
 name = "holofuel-kangaroo"
-version = "0.0.1" # Choose wisely, see "Note on Versioning" in README
+version = "0.0.1-skip-proof" # Choose wisely, see "Note on Versioning" in README
 description = "A Tauri App"
 authors = ["you"]
 license = ""
